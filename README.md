@@ -16,12 +16,12 @@ Github
 
     python3 -m venv venv    
     source venv/bin/activate
-    git pull origin main
+    git pull origin main 
 
 ## (venv) doc@flux-kompensator:
 
 
-
+dd
 
 
 # 20.03.2026 #

@@ -1,0 +1,3 @@
+#pip installiesren ist der Paketmanager für Pyton
+Flask
+PyMySQL

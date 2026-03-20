@@ -21,14 +21,12 @@ Github
 ## (venv) doc@flux-kompensator:
 
 
-dd
-
-
 # 20.03.2026 #
 - requirement gefüllt
 - Flask und PyMySQL installiert
 - python3-full und pip installieren
 - venv erstellen und aktivieren
+    git rm -r --cached venv/
 - requirements.txt befüllen und installieren
 
 

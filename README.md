@@ -19,7 +19,7 @@ Github
     git pull origin main 
 
 ## (venv) doc@flux-kompensator:
-g
+
 
 # 20.03.2026 #
 - requirement gefüllt

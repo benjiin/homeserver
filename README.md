@@ -20,7 +20,17 @@ Github
 
 ## (venv) doc@flux-kompensator:
 
+# 04.04.2026
 
+- 
+
+# 03.04.2026
+
+- rumgewurstelt und nicht dokumentiert
+- Flask und Claude zum laufen bekommen
+- Wofür brauche ich Flask
+    Gibt es andere Framework?
+- ...
 # 20.03.2026 #
 - requirement gefüllt
 - Flask und PyMySQL installiert

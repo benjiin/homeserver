@@ -20,6 +20,10 @@ Github
 
 ## (venv) doc@flux-kompensator:
 
+# 23.04.2026
+
+- Spielwiese im Heimnetz Projekt angelegt
+- gestern ESP32 rausgesucht
 # 04.04.2026
 
 - 

@@ -24,6 +24,7 @@ Github
 
 - Spielwiese im Heimnetz Projekt angelegt
 - gestern ESP32 rausgesucht
+
 # 04.04.2026
 
 - 
